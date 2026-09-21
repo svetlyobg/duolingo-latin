@@ -72,3 +72,23 @@
 
 *en*= She sleeps at home. *lat*= Ea domi dormit.
 
+*en*= mother *lat*= mater
+
+*en*= father *lat*= pater
+
+*en*= She is a sister. *lat*= Ea est soror.
+
+*en*= sister *lat*= soror
+
+*en*= The brother studies. *lat*= Frater studet.
+
+*en*= brother *lat*= frater
+
+*en*= You are the father. *lat*= Tu es pater.
+
+*en*= You are not the father. *lat*= Tu es non pater.
+
+*en*= The sister is in the city; the mother is at home. *lat*= Soror est in urbe, mater est domi.
+
+*en*= The sister is in the city, but the brother is at home. *lat*= Soror est in urbe, sed frater est domi.
+
