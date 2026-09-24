@@ -134,3 +134,19 @@
 
 *en*= I am a girl. *lat*= Puella sum.
 
+*en*= Who sleeps? *lat*= Quis dormit?
+
+*en*= Who is the woman? *lat*= Quis est femina?
+
+*en*= The woman is sleeping. *lat*= Femina dormit.
+
+*en*= Who is Marcus? *lat*= Quis est Marcus?
+
+*en*= You are a girl. *lat*= Tu es puella.
+
+*en*= The woman is sleeping. *lat*= Femina dormit.
+
+*en*= A girl is not a woman. *lat*= Puella non est femina.
+
+*en*= The boy does not sleep, but the girl sleeps. *lat*= Puer non dormit, sed puella dormit.
+
