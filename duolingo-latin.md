@@ -150,3 +150,23 @@
 
 *en*= The boy does not sleep, but the girl sleeps. *lat*= Puer non dormit, sed puella dormit.
 
+*en*= Stephanus studies and writes. *lat*= Stephanus studet et scribit.
+
+*en*= The girl writes. *lat*= Puella scribit.
+
+*en*= Not the boy, but the man is writing. *lat*= Non puer sed vir scribit.
+
+*en*= Who writes at home? *lat*= Quis scribit domi?
+
+*en*= Who is she? *lat*= Quis est ea?
+
+*en*= Livia studies in the city. *lat*= Livia studet in urbe.
+
+*en*= She is a girl. *lat*= Ea est puella.
+
+*en*= Who is in the city? *lat*= Quis est in urbe?
+
+*en*= The boy sleeps in the city. *lat*= Puer in urbe dormit.
+
+*en*= Livia does not study in the city. *lat*= Livia non in urbe studet.
+
