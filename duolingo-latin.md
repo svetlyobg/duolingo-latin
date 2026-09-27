@@ -170,3 +170,37 @@
 
 *en*= Livia does not study in the city. *lat*= Livia non in urbe studet.
 
+*en*= Who is the mother? *lat*= Quis est mater?
+
+*en*= You are the father. *lat*= Tu es pater.
+
+*en*= The father does not sleep. *lat*= Pater non dormit.
+
+*en*= The mother writes. *lat*= Mater scribit.
+
+*en*= He is a father. *lat*= Is est pater.
+
+*en*= You are not the father. *lat*= Tu non es pater.
+
+*en*= The mother writes and the brother sleeps at home. *lat*= Mater scribit et frater domi dormit.
+
+*en*= She is a sister. *lat*= Ea est soror.
+
+*en*= Livia does not study in the city. *lat*= Livia non in urbe studet.
+
+*en*= I am a girl. *lat*= Puella sum.
+
+*en*= A girl is not a woman. *lat*= Puella non est femina.
+
+*en*= You are Marcus. *lat*= Tu es Marcus.
+
+*en*= The boy does not sleep, but the girl sleeps. *lat*= Puer non dormit, sed puella dormit.
+
+*en*= He sleeps at home. *lat*= Is domi dormit.
+
+*en*= The brother is sleeping at home. *lat*= Frater domi dormit.
+
+*en*= Not the boy, but the man is writing. *lat*= Non puer sed vir scribit.
+
+*en*= I am a boy. *lat*= Ego sum Puer.
+
