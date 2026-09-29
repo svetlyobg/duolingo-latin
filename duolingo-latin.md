@@ -204,3 +204,101 @@
 
 *en*= I am a boy. *lat*= Ego sum Puer.
 
+*en*= Who sleeps? *lat*= Quis dormit?
+
+*en*= Who is the woman? *lat*= Quis est femina?
+
+*en*= The woman is sleeping. *lat*= Femina dormit.
+
+*en*= Who is Marcus? *lat*= Quis est Marcus?
+
+*en*= You are a girl. *lat*= Tu es puella.
+
+*en*= A girl is not a woman. *lat*= Puella non est femina.
+
+*en*= The boy does not sleep, but the girl sleeps. *lat*= Puer non dormit, sed puella dormit.
+
+*en*= Stephanus studies and writes. *lat*= Stephanus studet et scribit.
+
+*en*= The girl writes. *lat*= Puella scribit.
+
+*en*= Not the boy, but the man is writing. *lat*= Non puer sed vir scribit.
+
+*en*= Who writes at home? *lat*= Quis scribit domi?
+
+*en*= Who is she? *lat*= Quis est ea?
+
+*en*= Livia studies in the city. *lat*= Livia studet in urbe.
+
+*en*= She is a girl. *lat*= Ea est puella.
+
+*en*= Who is in the city? *lat*= Quis est in urbe?
+
+*en*= The boy sleeps in the city. *lat*= Puer in urbe dormit.
+
+*en*= Livia does not study in the city. *lat*= Livia non in urbe studet.
+
+*en*= Stephanus studies and writes. *lat*= Stephanus studet et scribit.
+
+*en*= The girl writes. *lat*= Puella scribit.
+
+*en*= Not the boy, but the man is writing. *lat*= Non puer sed vir scribit.
+
+*en*= Who writes at home? *lat*= Quis scribit domi?
+
+*en*= Who is she? *lat*= Quis est ea?
+
+*en*= Livia studies in the city. *lat*= Livia studet in urbe.
+
+*en*= She is a girl. *lat*= Ea est puella.
+
+*en*= Who is in the city? *lat*= Quis est in urbe?
+
+*en*= The boy sleeps in the city. *lat*= Puer in urbe dormit.
+
+*en*= Livia does not study in the city. *lat*= Livia non in urbe studet.
+
+*en*= A girl is not a woman. *lat*= Puella non est femina.
+
+*en*= Corinna is a woman. *lat*= Corinna est femina.
+
+*en*= You are a girl. *lat*= Tu es puella.
+
+*en*= Stephanus is a boy. *lat*= Stephanus est puer.
+
+*en*= Marcus is a man. *lat*= Marcus est vir.
+
+*en*= I am Livia. *lat*= Ego sum Livia.
+
+*en*= Who is the man? *lat*= Quis est vir?
+
+*en*= You are a girl. *lat*= Tu es puella.
+
+*en*= I am a woman. *lat*= Ego sum femina.
+
+*en*= Marcus is a man. *lat*= Marcus est vir.
+
+*en*= A girl is not a woman. *lat*= Puella non est femina.
+
+*en*= Marcus is a boy. *lat*= Marcus est puer.
+
+*en*= She is a girl. *lat*= Ea est puella.
+
+*en*= The mother writes. *lat*= Mater scribit.
+
+*en*= You are the father. *lat*= Tu es pater.
+
+*en*= The woman studies and writes. *lat*= Femina studet et scribit.
+
+*en*= He is Marcus. *lat*= Is est Marcus.
+
+*en*= She is a girl. *lat*= Ea est puella.
+
+*en*= Who is she? *lat*= Quis est ea?
+
+*en*= She sleeps at home. *lat*= Ea domi dormit.
+
+*en*= He sleeps at home. *lat*= Is domi dormit.
+
+*en*= He is not Marcus. *lat*= Is non est Marcus.
+
