@@ -418,3 +418,89 @@
 
 *en*= No, I do not live in the city. *lat*= Minime, in urbe non habito.
 
+*en*= No, I do not live in the city. *lat*= Minime, in urbe non habito.
+
+*en*= I have *lat*= habeo
+
+*en*= You live in Rome. *lat*= Romae habitas.
+
+*en*= How are you doing, Marcus? *lat*= Quomodo te habes Marce?
+
+*en*= Where do you live? *lat*= Ubi tu habitas?
+
+*en*= What does Marcus have? *lat*= Quid habet Marcus?
+
+*en*= Her name is Livia. *lat*= Nomen ei est Livia.
+
+*en*= no *lat*= minime
+
+*en*= What does Livia have? *lat*= Quid habet Livia?
+
+*en*= where *lat*= ubi
+
+*en*= How am I doing? *lat*= Quomodo me habeo?
+
+*en*= How is Marcus? *lat*= Quid agit Marcus?
+
+*en*= What is my name? *lat*= Quid est mihi nomen?
+
+*en*= Hello, Stephanus and Marcus. *lat*= Salvete, Stephane et Marce.
+
+*en*= Hello, Marcus and Livia. *lat*= Salvete, Marce et Livia.
+
+*en*= What is his name? *lat*= Quid est ei nomen?
+
+*en*= Hello, my name is Marcus. *lat*= Salve, mihi nomen est Marcus.
+
+*en*= My name is Marcus. *lat*= Mihi nomen est Marcus.
+
+*en*= Hello, Livia and Corinna! *lat*= Salvete, Livia et Corinna!
+
+*en*= What is my name? *lat*= Quid est mihi nomen?
+
+*en*= Hello, who are you? *lat*=
+
+*en*= Livia feels poorly. *lat*= Livia se male habet.
+
+*en*= How are you doing? *lat*= Quomodo te habes?
+
+*en*= Livia feels well. *lat*= Livia se bene habet.
+
+*en*= I feel poorly. *lat*= Male me habeo.
+
+*en*= How are you doing, Marcus? *lat*= Quomodo te habes Marce?
+
+*en*= I feel poorly. *lat*= Me male habeo.
+
+*en*= What do I have? *lat*= Quid habeo?
+
+*en*= I feel poorly. *lat*= Male me habeo.
+
+*en*= What do I have? *lat*= Quid habeo?
+
+*en*= I am well. *lat*= Me bene habeo.
+
+*en*= How are you doing? *lat*= Quomodo te habes?
+
+*en*= How are you doing, Marcus? *lat*= Quomodo te habes, Marce?
+
+*en*= Do you live in California? *lat*= Habitasne in California?
+
+*en*= Yes, I live in Rome. *lat*= Ita, ego Romae habito.
+
+*en*= Where does Marcus sleep? *lat*= Ubi Marcus dormit?
+
+*en*= Yes, I feel fine. *lat*= Ita, me bene habeo.
+
+*en*= I live in Rome. *lat*= Romae habito.
+
+*en*= Do you live in the city? *lat*= Habitasne in urbe?
+
+*en*= Rome is in Italy. *lat*= Roma est in Italia.
+
+*en*= Yes, my name is Livia. *lat*= Ita, nomen mihi est Livia.
+
+*en*= Yes, I live in the city. *lat*= Ita, in urbe habito.
+
+*en*= No! Marcus sleeps at home. *lat*= Minime! Marcus domi dormit.
+
