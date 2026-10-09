@@ -504,3 +504,39 @@
 
 *en*= No! Marcus sleeps at home. *lat*= Minime! Marcus domi dormit.
 
+*en*= How are you doing, Marcus? *lat*= Quomodo te habes, Marce?
+
+*en*= What does Livia have? *lat*= Quid Livia habet?
+
+*en*= How am I doing? *lat*= Quomodo me habeo?
+
+*en*= How does the woman feel? *lat*= Quomodo femina se habet?
+
+*en*= What does Marcus have? *lat*= Quid habet Marcus?
+
+*en*= How is Marcus? *lat*= Quid agit Marcus?
+
+*en*= Hello, Stephanus and Marcus. *lat*= Salvete, Stephane et Marce.
+
+*en*= How is Livia? *lat*= Quid agit Livia?
+
+*en*= Hello, Livia and Corinna! *lat*= Salvete, Livia et Corinna!
+
+*en*= Hello, Marcus. *lat*= Salve, Marce.
+
+*en*= Hello, Marcus and Livia. *lat*= Salvete, Marce et Livia.
+
+*en*= Hello, who are you? *lat*= Salve, quis es tu?
+
+*en*= I feel poorly. *lat*= Me male habeo.
+
+*en*= How are you doing? *lat*= Quomodo te habes?
+
+*en*= How does the woman feel? *lat*= Quomodo femina se habet?
+
+*en*= What is my name? *lat*= Quid est mihi nomen?
+
+*en*= What is his name? *lat*= Quid est ei nomen?
+
+*en*= How is Stephanus? *lat*= Quid agit Stephanus?
+
