@@ -540,3 +540,105 @@
 
 *en*= How is Stephanus? *lat*= Quid agit Stephanus?
 
+*en*= Do you live in the city? *lat*= Habitasne in urbe?
+
+*en*= Where is Italy? *lat*= Ubi est Italia?
+
+*en*= Do you live in Rome? *lat*= Habitasne Romae?
+
+*en*= Rome is in Italy. *lat*= Roma est in Italia.
+
+*en*= Yes, I live in Rome. *lat*= Ita, ego Romae habito.
+
+*en*= Where do you live? *lat*= Ubi habitatis?
+
+*en*= Yes, I live in the city. *lat*= Ita, ego in urbe habito.
+
+*en*= Where do you live? *lat*= Ubi habitas?
+
+*en*= You live in Rome. *lat*= Romae habitas.
+
+*en*= You live in Rome. *lat*= Romae habitas.
+
+*en*= hello *lat*= salve
+
+*en*= Where does Marcus sleep? *lat*= Ubi Marcus dormit?
+
+*en*= Your name is Marcus. *lat*= Nomen tibi est Marcus.
+
+*en*= well *lat*= bene
+
+*en*= Do you live in Rome? *lat*= Habitasne Romae?
+
+*en*= Do you live in Italy? *lat*= Habitasne in Italia?
+
+*en*= Hello, Marcus and Livia. *lat*= Salvete, Marce et Livia.
+
+*en*= yes *lat*= ita
+
+*en*= How am I doing? *lat*= Quomodo me habeo?
+
+*en*= I feel poorly. *lat*= Me male habeo.
+
+*en*= How does the woman feel? *lat*= Quomodo femina se habet?
+
+*en*= What is his name? *lat*= Quid est ei nomen?
+
+*en*= No, I do not live in the city. *lat*= Minime, in urbe non habito.
+
+*en*= city *lat*= urbs
+
+*en*= city *lat*= urbs
+
+*en*= Hello, young man. *lat*= Salve, iuvenis.
+
+*en*= Where does Marcus live? *lat*= Ubi habitat Marcus?
+
+*en*= young man *lat*= iuvenis
+
+*en*= The young man lives in Rome. *lat*= Iuvenis Romae habitat.
+
+*en*= Marcus is American. *lat*= Marcus est Americanus.
+
+*en*= American *lat*= americanus
+
+*en*= She studies in New York. *lat*= Ea Novi Eboraci studet.
+
+*en*= The girl lives in New York. *lat*= Puella Novi Eboraci habitat.
+
+*en*= New York is a city. *lat*= Novum Eboracum est urbs.
+
+*en*= New York is an American city. *lat*= Novum Eboracum est urbs Americana.
+
+*en*= Surely Corinna does not live in Rome? *lat*= Num Corinna Romae habitat?
+
+*en*= Surely Marcus does not live in New York? *lat*= Num Marcus Novi Eboraci habitat?
+
+*en*= Surely the young man is not a city? *lat*= Num iuvenis est urbs?
+
+*en*= Who lives alone? *lat*= Quis solus habitat?
+
+*en*= alone *lat*= solus
+
+*en*= What is California? *lat*= Quid est California?
+
+*en*= What is New York? *lat*= Quid est Novum Eboracum?
+
+*en*= Is there a city in America? *lat*= Estne urbs in America?
+
+*en*= Is it a state? *lat*= Estne civitas?
+
+*en*= state *lat*= civitas
+
+*en*= Where is the university? *lat*= Ubi est universitas?
+
+*en*= university *lat*= universitas
+
+*en*= Corinna lives alone. *lat*= Corinna sola habitat.
+
+*en*= The young man lives alone. *lat*= Iuvenis solus habitat.
+
+*en*= What is in New York? *lat*= Quid Novi Eboraci est?
+
+*en*= Is the young man in Rome? *lat*= Estne iuvenis Romae?
+
