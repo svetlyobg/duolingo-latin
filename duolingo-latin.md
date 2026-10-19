@@ -642,7 +642,7 @@
 
 *en*= Is the young man in Rome? *lat*= Estne iuvenis Romae?
 
-## Say where people leave
+## Say where people live
 
 *en*= Young men are in America. *lat*= Iuvenes sunt in America.
 
