@@ -642,3 +642,171 @@
 
 *en*= Is the young man in Rome? *lat*= Estne iuvenis Romae?
 
+## Say where people leave
+
+*en*= Young men are in America. *lat*= Iuvenes sunt in America.
+
+*en*= Surely there are not young men in Rome? *lat*= Num iuvenes Romae sunt?
+
+*en*= How many young men are in Rome? *lat*= Quot iuvenes Romae sunt?
+
+*en*= how many *lat*= quot
+
+*en*= How many cities are in America? *lat*= Quot urbes in America sunt?
+
+*en*= Many cities are in America. *lat*= Multae urbes sunt in America.
+
+*en*= Many young men are in America. *lat*= Multi iuvenes sunt in America.
+
+*en*= Many young men live in Rome. *lat*= Multi iuvenes Romae habitant.
+
+*en*= How many universities are in Rome? *lat*= Quot universitates Romae sunt?
+
+*en*= How many young men live in America? *lat*= Quot iuvenes in America habitant?
+
+*en*= There are many states in America. *lat*= Multae civitates sunt in America.
+
+*en*= Many universities are in Rome. *lat*= Multae universitates Romae sunt.
+
+*en*= How many young men live in America? *lat*= Quot iuvenes in America habitant?
+
+*en*= Surely there are not many states in America? *lat*= Num multae civitates in America sunt?
+
+*en*= I live in Boston. *lat*= Bostoniae habito.
+
+*en*= You live in Boston. *lat*= Bostoniae habitas.
+
+*en*= Philadelphia is a city. *lat*= Philadelphia est urbs.
+
+*en*= Philadelphia is my city. *lat*= Philadelphia est urbs mea.
+
+*en*= My university is in New York. *lat*= Universitas mea Novi Eboraci est.
+
+*en*= My family lives in Rome. *lat*= Familia mea Romae habitat.
+
+*en*= The family lives in Philadelphia. *lat*= Familia Philadelphiae habitat.
+
+*en*= A girl was born in Germany. *lat*= Puella in Germania nata est.
+
+*en*= Surely you do not live in Boston? *lat*= Num Bostoniae habitas?
+
+*en*= Marcus was born in America, but lives in Rome. *lat*= Marcus in America natus est, sed Romae habitat.
+
+*en*= She studies in Boston. *lat*= Ea Bostoniae studet.
+
+*en*= You live in Philadelphia. *lat*= Philadelphiae habitas.
+
+*en*= My family lives in Rome. *lat*= Familia mea Romae habitat.
+
+*en*= My family lives in Boston. *lat*= Familia mea Bostoniae habitat.
+
+*en*= My university is in New York City. *lat*= Universitas mea est Novi Eboraci.
+
+*en*= alone *lat*= solus
+
+*en*= Surely there is not a university in Rome? *lat*= Num universitas Romae est?
+
+*en*= young man *lat*= iuvenis
+
+*en*= My university is in New York City. *lat*= Universitas mea Novi Eboraci est.
+
+*en*= how many *lat*= quot
+
+*en*= Surely the city of New York is not in California? *lat*= Num urbs Novum Eboracum in California est?
+
+*en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
+
+*en*= What is California? California is an American state. *lat*= Quid est California? California est civitas Americana.
+
+*en*= Surely there are not young men in Rome? *lat*= Num iuvenes Romae sunt?
+
+*en*= Surely there are not many states in America? *lat*= Num multae civitates in America sunt?
+
+*en*= There are cities and states in America. *lat*= Urbes et civitates sunt in America.
+
+*en*= Where does Marcus live? *lat*= Ubi habitat Marcus?
+
+*en*= The young man lives in Rome. *lat*= Iuvenis Romae habitat.
+
+*en*= Marcus is American. *lat*= Marcus est Americanus.
+
+*en*= New York is not in California. *lat*= Novum Eboracum in California non est.
+
+*en*= New York is an American city. *lat*= Novum Eboracum Americana urbs est.
+
+*en*= New York is an American city. *lat*= Novum Eboracum est urbs Americana.
+
+*en*= Surely the city of New York is not in California? *lat*= Num urbs Novum Eboracum in California est?
+
+*en*= New York is not in California. *lat*= Novum Eboracum in California non est.
+
+*en*= Surely Marcus does not live in New York? *lat*= Num Marcus Novi Eboraci habitat?
+
+*en*= Hello, young man. *lat*= Salve, iuvenis.
+
+*en*= New York is a city. *lat*= Novum Eboracum urbs est.
+
+*en*= Marcus is American. *lat*= Marcus est Americanus.
+
+*en*= Surely it is not a city? *lat*= Num est urbs?
+
+*en*= Surely the young man is not a city? *lat*= Num iuvenis est urbs?
+
+*en*= Corinna lives alone. *lat*= Corinna sola habitat.
+
+*en*= Is it a state? *lat*= Estne civitas?
+
+*en*= What is California? *lat*= Quid est California?
+
+*en*= Is there a city in America? *lat*= Estne urbs in America?
+
+*en*= Surely the state is not American? *lat*= Num civitas Americana est?
+
+*en*= Is it a state? *lat*= Estne civitas?
+
+*en*= What is in New York? *lat*= Quid Novi Eboraci est?
+
+*en*= Marcus does not live alone. *lat*= Marcus non solus habitat.
+
+*en*= There is a university in Rome. *lat*= Universitas Romae est.
+
+*en*= Where is the university? *lat*= Ubi est universitas?
+
+*en*= Surely the state is not American? *lat*= Num civitas Americana non est?
+
+*en*= New York is both a city and a state. *lat*= Novum Eboracum est et urbs et civitas.
+
+*en*= What is California? California is an American state. *lat*= Quid est California? California est civitas Americana.
+
+*en*= New York is both a city and a state. *lat*= Novum Eboracum est et urbs et civitas.
+
+*en*= Hello, young men! *lat*= Salvete, iuvenes!
+
+*en*= Hello, young men! *lat*= Salvete, iuvenes!
+
+*en*= Many universities are in America. *lat*= Multae universitates in America sunt.
+
+*en*= How many cities are in America? *lat*= Quot urbes sunt in America?
+
+*en*= How many young men are in America? *lat*= Quot iuvenes in America sunt?
+
+*en*= Surely the young men do not live in America? *lat*= Num iuvenes habitant in America?
+
+*en*= How many young men are in Rome? *lat*= Quot iuvenes Romae sunt?
+
+*en*= Many young men live in Rome. *lat*= Multi iuvenes Romae habitant.
+
+*en*= Universities are not young men. *lat*= Universitates non sunt iuvenes.
+
+*en*= Many universities are in Rome. *lat*= Multae universitates sunt Romae.
+
+*en*= There are many states in America. *lat*= Multae civitates sunt in America.
+
+*en*= Young men are in America. *lat*= Iuvenes sunt in America.
+
+*en*= Many cities are in America. *lat*= Multae urbes sunt in America.
+
+*en*= Surely there are not young men in Rome? *lat*= Num iuvenes sunt Romae?
+
+*en*= Many universities are in America. *lat*= Multae universitates in America sunt.
+
