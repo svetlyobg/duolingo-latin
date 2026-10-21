@@ -842,3 +842,17 @@
 
 *en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
 
+*en*= Many universities are in America. *lat*= Multae universitates in America sunt.
+
+*en*= Marcus is a young American man. *lat*= Marcus est iuvenis Americanus.
+
+*en*= My university is in New York City. *lat*= Universitas mea Novi Eboraci est.
+
+*en*= The young man does not live alone. *lat*= Iuvenis solus non habitat.
+
+*en*= How many universities and young men are in Philadelphia? *lat*= Quot universitates et iuvenes Philadelphiae sunt?
+
+*en*= The young man feels fine. *lat*= Iuvenis se bene habet.
+
+*en*= Surely there are not many states in America? *lat*= Num multae civitates in America sunt?
+
