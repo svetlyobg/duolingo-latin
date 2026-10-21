@@ -810,3 +810,35 @@
 
 *en*= Many universities are in America. *lat*= Multae universitates in America sunt.
 
+*en*= You live in Boston. *lat*= Bostoniae habitas.
+
+*en*= She studies in Boston. *lat*= Ea Bostoniae studet.
+
+*en*= Philadelphia is my city. *lat*= Philadelphia est mea urbs.
+
+*en*= A girl was born in Germany. *lat*= Puella in Germania nata est.
+
+*en*= She studies in Boston. *lat*= Ea Bostoniae studet.
+
+*en*= My family lives in Boston. *lat*= Familia mea Bostoniae habitat.
+
+*en*= Boston and New York are cities. *lat*= Bostonia et Novum Eboracum sunt urbes.
+
+*en*= Marcus was born in America, but lives in Rome. *lat*= Marcus in America natus est, sed Romae habitat.
+
+*en*= I live in Boston. *lat*= Bostoniae habito.
+
+*en*= The family lives in Philadelphia. *lat*= Familia Philadelphiae habitat.
+
+*en*= My family lives in Boston. *lat*= Familia mea Bostoniae habitat.
+
+*en*= How many universities are in Philadelphia? *lat*= Quot universitates Philadelphiae sunt?
+
+*en*= My family lives in Rome. *lat*= Familia mea Romae habitat.
+
+*en*= Stephanus was born in America. *lat*= Stephanus natus est in America.
+
+*en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
+
+*en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
+
