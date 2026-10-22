@@ -482,3 +482,7 @@
 
 *en*= The young man feels fine. *lat*= Iuvenis se bene habet.
 
+*en*= Marcus is an American young man. *lat*= Marcus iuvenis Americanus est.
+
+*en*= The young man lives in New York. *lat*= Iuvenis Novi Eboraci habitat.
+
