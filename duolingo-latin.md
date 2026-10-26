@@ -486,69 +486,11 @@
 
 *en*= The young man lives in New York. *lat*= Iuvenis Novi Eboraci habitat.
 
-*en*= You live in Boston. *lat*= Bostoniae habitas.
-
-*en*= She studies in Boston. *lat*= Ea Bostoniae studet.
-
-*en*= Philadelphia is my city. *lat*= Philadelphia est mea urbs.
-
-*en*= A girl was born in Germany. *lat*= Puella in Germania nata est.
-
-*en*= She studies in Boston. *lat*= Ea Bostoniae studet.
-
-*en*= My family lives in Boston. *lat*= Familia mea Bostoniae habitat.
-
-*en*= Boston and New York are cities. *lat*= Bostonia et Novum Eboracum sunt urbes.
-
-*en*= Marcus was born in America, but lives in Rome. *lat*= Marcus in America natus est, sed Romae habitat.
-
-*en*= I live in Boston. *lat*= Bostoniae habito.
-
-*en*= The family lives in Philadelphia. *lat*= Familia Philadelphiae habitat.
-
-*en*= My family lives in Boston. *lat*= Familia mea Bostoniae habitat.
-
-*en*= How many universities are in Philadelphia? *lat*= Quot universitates Philadelphiae sunt?
-
-*en*= My family lives in Rome. *lat*= Familia mea Romae habitat.
-
-*en*= Stephanus was born in America. *lat*= Stephanus natus est in America.
-
-*en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
-
-*en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
-
-*en*= Philadelphia is a city. *lat*= Philadelphia est urbs.
-
-*en*= Hello, young men! *lat*= Salvete, iuvenes!
-
 *en*= Is Boston a state? *lat*= Estne Bostonia civitas?
 
 *en*= Philadelphia and Rome are cities. *lat*= Philadelphia et Roma sunt urbes.
 
-*en*= Many universities are in America. *lat*= Multae universitates in America sunt.
-
-*en*= Boston and New York are cities. *lat*= Bostonia et Novum Eboracum sunt urbes.
-
-*en*= There are many states in America. *lat*= Multae civitates sunt in America.
-
-*en*= How many universities and young men are in Philadelphia? *lat*= Quot universitates et iuvenes Philadelphiae sunt?
-
-*en*= Surely the city of New York is not in California? *lat*= Num urbs Novum Eboracum in California est?
-
 *en*= How many young men are in New York? *lat*= Quot iuvenes Novi Eboraci sunt?
-
-*en*= how many *lat*= quot
-
-*en*= I live in New York and my family lives in Boston. *lat*= Novi Eboraci habito et familia mea Bostoniae habitat.
-
-*en*= The young man lives in New York. *lat*= Iuvenis Novi Eboraci habitat.
-
-*en*= The young man does not live alone. *lat*= Iuvenis solus non habitat.
-
-*en*= Marcus does not live alone. *lat*= Marcus non solus habitat.
-
-*en*= Surely the state is not American? *lat*= Num civitas Americana est?
 
 ## Form the plural
 
@@ -601,8 +543,6 @@
 *en*= Where do your sons live? *lat*= Ubi habitant filii tui?
 
 *en*= Where are your brothers? *lat*= Ubi sunt fratres tui?
-
-*en*= Where do your sons live? *lat*= Ubi habitant filii tui?
 
 *en*= Where do your daughters live? *lat*= Ubi habitant filiae tuae?
 
