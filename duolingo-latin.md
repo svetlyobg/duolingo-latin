@@ -547,3 +547,30 @@
 *en*= Where do your daughters live? *lat*= Ubi habitant filiae tuae?
 
 *en*= Marcus, where do your daughters sleep? *lat*= Marce, ubi dormiunt filiae tuae?
+
+*en*= men *lat*= viri
+
+*en*= Livia, where are the men? *lat*= Livia, ubi sunt viri?
+
+*en*= five *lat*= quinque
+
+*en*= boys *lat*= pueri
+
+*en*= two *lat*= duo
+
+*en*= The two girls sleep. *lat*= Duae puellae dormiunt.
+
+*en*= Two boys and two girls study. *lat*= Duo pueri et duae puellae student.
+
+*en*= The men sleep. *lat*= Viri dormiunt.
+
+*en*= The two boys sleep. *lat*= Duo pueri dormiunt.
+
+*en*= Livia, where are the men? *lat*= Livia, ubi viri sunt?
+
+*en*= Corinna, where are the boys? *lat*= Corinna, ubi sunt pueri?
+
+*en*= Corinna, where are your two brothers? *lat*= Corinna, ubi sunt duo fratres tui?
+
+**_Една граматическа бележка: „две“ се казва duo пред думи от мъжки род („duo pueri“, „duo fratres“) и duae пред думи от женски род („duae puellae“)._**
+
