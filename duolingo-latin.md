@@ -574,3 +574,39 @@
 
 **_Една граматическа бележка: „две“ се казва duo пред думи от мъжки род („duo pueri“, „duo fratres“) и duae пред думи от женски род („duae puellae“)._**
 
+*en*= three *lat*= tres
+
+*en*= four *lat*= quattuor
+
+*en*= Are there three? *lat*= Suntne tres?
+
+*en*= How many brothers do you have? *lat*= Quot fratres habes?
+
+*en*= Are the men at home? *lat*= Suntne viri domi?
+
+*en*= How many sisters do you have? *lat*= Quot sorores habes?
+
+*en*= Where are your sisters? *lat*= Ubi sunt sorores tuae?
+
+*en*= Many girls sleep. *lat*= Multae puellae dormiunt.
+
+*en*= Many sisters do not sleep. *lat*= Multae sorores non dormiunt.
+
+*en*= Are the boys at home? *lat*= Suntne pueri domi?
+
+*en*= Are the boys in Italy? *lat*= Suntne pueri in Italia?
+
+*en*= Are your daughters in Rome? *lat*= Suntne filiae tuae Romae?
+
+*en*= The three sons are not sleeping. *lat*= Tres filii non dormiunt.
+
+*en*= Your daughters live in Italy. *lat*= Filiae tuae in Italia habitant.
+
+*en*= The two men sleep at home. *lat*= Duo viri domi dormiunt.
+
+*en*= The five daughters live at home. *lat*= Quinque filiae domi habitant.
+
+*en*= My daughters do not study but sleep. *lat*= Filiae meae non student sed dormiunt.
+
+*en*= The two women live at home. *lat*= Duae feminae domi habitant.
+
