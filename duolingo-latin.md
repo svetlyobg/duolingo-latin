@@ -610,3 +610,34 @@
 
 *en*= The two women live at home. *lat*= Duae feminae domi habitant.
 
+*en*= The daughters and the brothers sleep. *lat*= Filiae et fratres dormiunt.
+
+*en*= Your daughters live in Rome. *lat*= Filiae tuae Romae habitant.
+
+*en*= Where do your sons live? *lat*= Ubi filii tui habitant?
+
+*en*= My sons do not sleep but study. *lat*= Filii mei non dormiunt sed student.
+
+*en*= Where do your sons study? *lat*= Ubi filii tui student?
+
+*en*= Where do your sons study? *lat*= Ubi student filii tui?
+
+*en*= My sons live in Rome. *lat*= Filii mei Romae habitant.
+
+*en*= My daughters study at home. *lat*= Filiae meae domi student.
+
+*en*= The women live in the city. *lat*= Feminae in urbe habitant.
+
+*en*= Five women are sleeping at home. *lat*= Quinque feminae domi dormiunt.
+
+*en*= The two women sleep at home. *lat*= Duae feminae domi dormiunt.
+
+*en*= The five boys live at home. *lat*= Quinque pueri domi habitant.
+
+*en*= Four women sleep. *lat*= Quattuor feminae dormiunt.
+
+*en*= How many sisters does Corinna have? *lat*= Quot sorores habet Corinna?
+
+*en*= The four sisters live in Rome. *lat*= Quattuor sorores Romae habitant.
+
+*en*= Are there three? *lat*= Sunt tres?
