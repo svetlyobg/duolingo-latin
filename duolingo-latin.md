@@ -641,3 +641,9 @@
 *en*= The four sisters live in Rome. *lat*= Quattuor sorores Romae habitant.
 
 *en*= Are there three? *lat*= Sunt tres?
+
+*en*= Where are your brothers? *lat*= Ubi sunt tui fratres?
+
+*en*= Where do your sons study? *lat*= Ubi student tui filii?
+
+*en*= I have three brothers. *lat*= Tres fratres habeo.
