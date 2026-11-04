@@ -647,3 +647,7 @@
 *en*= Where do your sons study? *lat*= Ubi student tui filii?
 
 *en*= I have three brothers. *lat*= Tres fratres habeo.
+
+*en*= The five girls sleep. *lat*= Quinque puellae dormiunt.
+
+*en*= The boy studies in the city. *lat*= Puer in urbe studet.
