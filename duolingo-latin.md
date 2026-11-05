@@ -651,3 +651,15 @@
 *en*= The five girls sleep. *lat*= Quinque puellae dormiunt.
 
 *en*= The boy studies in the city. *lat*= Puer in urbe studet.
+
+*en*= My name is Marcus. *lat*= Nomen mihi est Marcus.
+
+*en*= The boys are in Rome. *lat*= Pueri sunt Romae.
+
+*en*= The sister studies. *lat*= Soror studet.
+
+*en*= The sister is in the city. *lat*= Soror in urbe est.
+
+*en*= Philadelphia and Rome are cities. *lat*= Philadelphia et Roma urbes sunt.
+
+*en*= Philadelphia is a city. *lat*= Philadelphia urbs est.
