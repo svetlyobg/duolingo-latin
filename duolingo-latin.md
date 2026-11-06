@@ -663,3 +663,9 @@
 *en*= Philadelphia and Rome are cities. *lat*= Philadelphia et Roma urbes sunt.
 
 *en*= Philadelphia is a city. *lat*= Philadelphia urbs est.
+
+*en*= Your brothers sleep. *lat*= Fratres tui dormiunt.
+
+*en*= The girls are in Italy. *lat*= Puellae in Italia sunt.
+
+*en*= The women sleep. *lat*= Feminae dormiunt.
