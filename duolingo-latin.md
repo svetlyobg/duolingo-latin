@@ -669,3 +669,11 @@
 *en*= The girls are in Italy. *lat*= Puellae in Italia sunt.
 
 *en*= The women sleep. *lat*= Feminae dormiunt.
+
+*en*= Four men live in the city. *lat*= Quattuor viri in urbe habitant.
+
+*en*= Four boys study. *lat*= Quattuor pueri student.
+
+*en*= Are there three sisters? *lat*= Suntne tres sorores?
+
+*en*= The two sisters are in Rome. *lat*= Duae sorores Romae sunt.
