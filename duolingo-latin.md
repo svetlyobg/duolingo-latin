@@ -677,3 +677,7 @@
 *en*= Are there three sisters? *lat*= Suntne tres sorores?
 
 *en*= The two sisters are in Rome. *lat*= Duae sorores Romae sunt.
+
+*en*= Many sisters are in the city. *lat*= Multae sorores in urbe sunt.
+
+*en*= The five sons do not sleep. *lat*= Quinque filii non dormiunt.
