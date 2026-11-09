@@ -681,3 +681,31 @@
 *en*= Many sisters are in the city. *lat*= Multae sorores in urbe sunt.
 
 *en*= The five sons do not sleep. *lat*= Quinque filii non dormiunt.
+
+## Discuss school
+
+*en*= student *lat*= discipulus
+
+*en*= teacher *lat*= magister
+
+*en*= I have a teacher. *lat*= Magistrum habeo.
+
+*en*= I am a teacher. *lat*= Ego sum magistra.
+
+*en*= Corinna has a teacher. *lat*= Corinna magistrum habet.
+
+*en*= I have students. *lat*= Discipulos habeo.
+
+*en*= The female teacher and the male teacher study. *lat*= Magistra et magister student.
+
+*en*= The students sleep. *lat*= Discipuli dormiunt.
+
+*en*= You have students. *lat*= Tu discipulos habes.
+
+*en*= Livia is a student. *lat*= Livia est discipula.
+
+*en*= I have five students. *lat*= Ego quinque discipulas habeo.
+
+*en*= Many boys are students. *lat*= Multi pueri discipuli sunt.
+
+*en*= My student lives in the city. *lat*= Discipula mea in urbe habitat.
