@@ -709,3 +709,31 @@
 *en*= Many boys are students. *lat*= Multi pueri discipuli sunt.
 
 *en*= My student lives in the city. *lat*= Discipula mea in urbe habitat.
+
+*en*= Marcus writes a book. *lat*= Marcus librum scribit.
+
+*en*= book *lat*= liber
+
+*en*= The students read. *lat*= Discipuli legunt.
+
+*en*= My book is at home. *lat*= Liber meus domi est.
+
+*en*= You read the book. *lat*= Librum legis.
+
+*en*= How many books do you have? *lat*= Quot libros habes?
+
+*en*= Livia reads a book. *lat*= Livia librum legit.
+
+*en*= The students learn languages. *lat*= Discipuli linguas discunt.
+
+*en*= I learn Latin. *lat*= Linguam Latinam disco.
+
+*en*= The book is at home. *lat*= Liber domi est.
+
+*en*= Marcus and Corinna read the books. *lat*= Marcus et Corinna libros legunt.
+
+*en*= Where is the book? *lat*= Ubi est liber?
+
+*en*= The book is not a student. *lat*= Liber non est discipulus.
+
+*en*= My book is my teacher. *lat*= Liber meus est magister meus.
