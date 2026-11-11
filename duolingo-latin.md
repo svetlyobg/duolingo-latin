@@ -6,13 +6,13 @@
 
 *en*= man *lat*= Vir
 
-*en*= puer *lat*= boy
+*en*= boy *lat*= puer
 
 *en*= woman *lat*= femina
 
 *en*= I am Marcus. *lat*= Marcus sum.
 
-*en*= girl *lat*= puella.
+*en*= girl *lat*= puella
 
 *en*= I am Livia. *lat*= Ego sum Livia.
 
