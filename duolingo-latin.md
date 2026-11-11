@@ -737,3 +737,31 @@
 *en*= The book is not a student. *lat*= Liber non est discipulus.
 
 *en*= My book is my teacher. *lat*= Liber meus est magister meus.
+
+*en*= Where do you study? *lat*= Ubi studetis?
+
+*en*= I study literature. *lat*= Ego litteris studeo.
+
+*en*= The boy studies literature. *lat*= Puer litteris studet.
+
+*en*= There are many languages. *lat*= Multae linguae sunt.
+
+*en*= I study the Latin language. *lat*= Linguae Latinae studeo.
+
+*en*= Stephanus and Corinna study Latin. *lat*= Stephanus et Corinna linguae Latinae student.
+
+*en*= I study Latin literature. *lat*= Litteris Latinis studeo.
+
+*en*= The students study Latin literature. *lat*= Discipuli litteris Latinis student.
+
+*en*= Where do you read Latin literature? *lat*= Ubi litteras Latinas legitis?
+
+*en*= You study in the city. *lat*= In urbe studetis.
+
+*en*= The teacher reads Latin literature. *lat*= Magister litteras Latinas legit.
+
+*en*= You study in Rome. *lat*= Romae studetis.
+
+*en*= Marcus studies Latin. *lat*= Marcus linguae Latinae studet.
+
+*en*= We study the Latin language at home. *lat*= Linguae Latinae domi studemus.
