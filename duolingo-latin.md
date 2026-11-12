@@ -765,3 +765,29 @@
 *en*= Marcus studies Latin. *lat*= Marcus linguae Latinae studet.
 
 *en*= We study the Latin language at home. *lat*= Linguae Latinae domi studemus.
+
+*en*= You teach. *lat*= Tu doces.
+
+*en*= There are many books. *lat*= Multi libri sunt.
+
+*en*= I teach *lat*= doceo
+
+*en*= We write. *lat*= Scribimus.
+
+*en*= I write *lat*= scribo
+
+*en*= Where is the school? *lat*= Ubi est ludus?
+
+*en*= I read the chapter. *lat*= Ego lectionem lego.
+
+*en*= Students read chapters. *lat*= Discipulae lectiones legunt.
+
+*en*= The female students and male students study language. *lat*= Discipulae et discipuli linguae student.
+
+*en*= I teach you. *lat*= Te doceo.
+
+*en*= You write. *lat*= Tu scribis.
+
+*en*= books *lat*= libri
+
+*en*= A school has male and female students. *lat*= Ludus discipulos et discipulas habet.
