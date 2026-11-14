@@ -791,3 +791,27 @@
 *en*= books *lat*= libri
 
 *en*= A school has male and female students. *lat*= Ludus discipulos et discipulas habet.
+
+*en*= You read the book. *lat*= Tu librum legis.
+
+*en*= You all write Latin literature. *lat*= Litteras Latinas scribitis.
+
+*en*= The student writes well. *lat*= Discipulus bene scribit.
+
+*en*= My teacher studies. *lat*= Magistra mea studet.
+
+*en*= Who is the teacher? *lat*= Quis magister est?
+
+*en*= Corinna is a teacher. *lat*= Corinna est magistra.
+
+*en*= You have four students. *lat*= Quattuor discipulos habes.
+
+*en*= The student studies at home. *lat*= Discipulus domi studet.
+
+*en*= Stephanus is a teacher. *lat*= Stephanus est magister.
+
+*en*= I have students. *lat*= Ego discipulos habeo.
+
+*en*= The teacher is a man. *lat*= Magister est vir.
+
+*en*= The teacher lives in the city. *lat*= Magistra in urbe habitat.
