@@ -815,3 +815,13 @@
 *en*= The teacher is a man. *lat*= Magister est vir.
 
 *en*= The teacher lives in the city. *lat*= Magistra in urbe habitat.
+
+*en*= The teacher and the student learn languages. *lat*= Magistra et discipula linguas discunt.
+
+*en*= Corinna learns Latin. *lat*= Corinna linguam Latinam discit.
+
+*en*= The book is in New York. *lat*= Liber est Novi Eboraci.
+
+*en*= I do not learn Latin. *lat*= Linguam Latinam non disco.
+
+*en*= Livia reads books at home. *lat*= Livia domi libros legit.
