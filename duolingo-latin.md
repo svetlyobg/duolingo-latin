@@ -825,3 +825,17 @@
 *en*= I do not learn Latin. *lat*= Linguam Latinam non disco.
 
 *en*= Livia reads books at home. *lat*= Livia domi libros legit.
+
+*en*= Many women study the language. *lat*= Multae feminae linguae student.
+
+*en*= Marcus studies Latin. *lat*= Marcus Latinae studet.
+
+*en*= You study Latin. *lat*= Tu linguae Latinae studes.
+
+*en*= I study Latin literature. *lat*= Ego litteris Latinis studeo.
+
+*en*= Teacher Corinna reads Latin literature. *lat*= Magistra Corinna Latinas litteras legit.
+
+*en*= Corinna studies Latin literature. *lat*= Corinna litteris Latinis studet.
+
+*en*= The students study Latin literature. *lat*= Discipuli Latinis litteris student.
