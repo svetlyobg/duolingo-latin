@@ -839,3 +839,21 @@
 *en*= Corinna studies Latin literature. *lat*= Corinna litteris Latinis studet.
 
 *en*= The students study Latin literature. *lat*= Discipuli Latinis litteris student.
+
+*en*= Many schools are in Rome. *lat*= Multi ludi Romae sunt.
+
+*en*= There are many chapters. *lat*= Multae lectiones sunt.
+
+*en*= Corinna teaches students. *lat*= Corinna discipulas docet.
+
+*en*= Many chapters are in the book. *lat*= Multae lectiones in libro sunt.
+
+*en*= I write at home. *lat*= Domi scribo.
+
+*en*= I write the book. *lat*= Librum scribo.
+
+*en*= The students study the Latin language in school. *lat*= Discipulae in ludo linguae Latinae student.
+
+*en*= You write literature. *lat*= Litteras scribis.
+
+*en*= Are there schools in the city? *lat*= Suntne ludi in urbe?
