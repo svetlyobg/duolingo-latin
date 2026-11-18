@@ -857,3 +857,7 @@
 *en*= You write literature. *lat*= Litteras scribis.
 
 *en*= Are there schools in the city? *lat*= Suntne ludi in urbe?
+
+*en*= Teacher Corinna reads Latin literature. *lat*= Magistra Corinna litteras Latinas legit.
+
+*en*= Who is my teacher? *lat*= Quis est magistra mea?
