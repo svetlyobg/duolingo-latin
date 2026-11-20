@@ -861,3 +861,7 @@
 *en*= Teacher Corinna reads Latin literature. *lat*= Magistra Corinna litteras Latinas legit.
 
 *en*= Who is my teacher? *lat*= Quis est magistra mea?
+
+*en*= The male teacher has female students. *lat*= Magister discipulas habet.
+
+*en*= What is your name? *lat*= Quid tibi nomen est?
