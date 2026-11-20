@@ -865,3 +865,15 @@
 *en*= The male teacher has female students. *lat*= Magister discipulas habet.
 
 *en*= What is your name? *lat*= Quid tibi nomen est?
+
+*en*= They study the Latin language. *lat*= Linguae Latinae student.
+
+*en*= How is Corinna doing? *lat*= Quomodo Corinna se habet?
+
+*en*= Livia feels poorly. *lat*= Livia male se habet.
+
+*en*= Stephanus is doing well. *lat*= Stephanus bene se habet.
+
+*en*= The student does not sleep, but writes. *lat*= Discipula non dormit, sed scribit.
+
+*en*= My student is a boy. *lat*= Discipulus meus est puer.
