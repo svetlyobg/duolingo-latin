@@ -877,3 +877,17 @@
 *en*= The student does not sleep, but writes. *lat*= Discipula non dormit, sed scribit.
 
 *en*= My student is a boy. *lat*= Discipulus meus est puer.
+
+*en*= You have four female students and four male students. *lat*= Tu quattuor discipulas et quattuor discipulos habes.
+
+*en*= The student studies in Rome. *lat*= Discipula Romae studet.
+
+*en*= Livia is a teacher. *lat*= Livia est magistra.
+
+*en*= The student does not sleep, but writes. *lat*= Discipulus non dormit, sed scribit.
+
+*en*= How many students are in the city? *lat*= Quot discipuli in urbe sunt?
+
+*en*= You have a teacher. *lat*= Tu magistrum habes.
+
+*en*= Corinna learns Latin. *lat*= Corinna Latinam linguam discit.
