@@ -891,3 +891,11 @@
 *en*= You have a teacher. *lat*= Tu magistrum habes.
 
 *en*= Corinna learns Latin. *lat*= Corinna Latinam linguam discit.
+
+*en*= Corinna teaches. *lat*= Corinna docet.
+
+*en*= Who studies Latin literature? *lat*= Quis Latinis litteris studet?
+
+*en*= Where are the schools? *lat*= Ubi ludi sunt?
+
+*en*= The students write in school. *lat*= Discipuli in ludo scribunt.
