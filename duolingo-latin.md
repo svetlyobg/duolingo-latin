@@ -899,3 +899,7 @@
 *en*= Where are the schools? *lat*= Ubi ludi sunt?
 
 *en*= The students write in school. *lat*= Discipuli in ludo scribunt.
+
+*en*= I write in the book. *lat*= In libro scribo.
+
+*en*= Marcus studies Latin. *lat*= Marcus Latinae linguae studet.
