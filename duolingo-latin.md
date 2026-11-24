@@ -903,3 +903,29 @@
 *en*= I write in the book. *lat*= In libro scribo.
 
 *en*= Marcus studies Latin. *lat*= Marcus Latinae linguae studet.
+
+## Describe your parents
+
+*en*= We save mother. *lat*= Matrem servamus.
+
+*en*= Father is strict. *lat*= Pater est severus.
+
+*en*= Stephanus saves father. *lat*= Stephanus patrem servat.
+
+*en*= strict *lat*= severus
+
+*en*= I have a kind father. *lat*= Patrem benignum habeo.
+
+*en*= She is kind. *lat*= Illa est benigna.
+
+*en*= He is a kind father. *lat*= Ille est pater benignus.
+
+*en*= She is also a mother. *lat*= Illa quoque est mater.
+
+*en*= Father and also mother are in the city. *lat*= Pater quoque et mater in urbe sunt.
+
+*en*= He is kind. *lat*= Ille est benignus.
+
+*en*= I have a kind mother. *lat*= Matrem benignam habeo.
+
+*en*= He saves me and I save him. *lat*= Ille me servat et ego illum servo.
