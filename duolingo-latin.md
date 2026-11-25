@@ -929,3 +929,27 @@
 *en*= I have a kind mother. *lat*= Matrem benignam habeo.
 
 *en*= He saves me and I save him. *lat*= Ille me servat et ego illum servo.
+
+*en*= wife *lat*= uxor
+
+*en*= They are strict. *lat*= Illi sunt severi.
+
+*en*= They are kind. *lat*= Illi sunt benigni.
+
+*en*= There is a head of the house. *lat*= Est paterfamilias.
+
+*en*= They are relatives. *lat*= Illi sunt familiares.
+
+*en*= The head of the house saves mother. *lat*= Paterfamilias matrem servat.
+
+*en*= They are kind relatives. *lat*= Illi sunt familiares benigni.
+
+*en*= The wife has an aged husband. *lat*= Uxor maritum senilem habet.
+
+*en*= The aged husband is a relative. *lat*= Maritus senilis est familiaris.
+
+*en*= The wife has a mother. *lat*= Uxor matrem habet.
+
+*en*= Father saves them. *lat*= Pater illos servat.
+
+*en*= The man has a husband. *lat*= Vir maritum habet.
