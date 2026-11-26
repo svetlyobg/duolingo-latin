@@ -953,3 +953,33 @@
 *en*= Father saves them. *lat*= Pater illos servat.
 
 *en*= The man has a husband. *lat*= Vir maritum habet.
+
+*en*= What do you sacrifice? *lat*= Quid sacrificatis?
+
+*en*= I sacrifice *lat*= sacrifico
+
+*en*= Where are the graves? *lat*= Ubi sunt sepulchra?
+
+*en*= grave *lat*= sepulchrum
+
+*en*= Dutiful men sacrifice. *lat*= Viri pii sacrificant.
+
+*en*= His father is kind. *lat*= Pater eius est benignus.
+
+*en*= Their father is strict. *lat*= Pater eorum est severus.
+
+*en*= Mother sacrifices daily. *lat*= Cotidie mater sacrificat.
+
+*en*= The husband sacrifices daily. *lat*= Maritus cotidie sacrificat.
+
+*en*= A dutiful man sacrifices. *lat*= Vir pius sacrificat.
+
+*en*= Their father is aged. *lat*= Pater eorum est senilis.
+
+*en*= How many graves are there? *lat*= Quot sepulchra sunt?
+
+*en*= His father sacrifices daily. *lat*= Pater eius cotidie sacrificat.
+
+*en*= Her mother has a grave. *lat*= Mater eius sepulchrum habet.
+
+*en*= Corinna has a dutiful husband. *lat*= Corinna maritum pium habet.
