@@ -983,3 +983,11 @@
 *en*= Her mother has a grave. *lat*= Mater eius sepulchrum habet.
 
 *en*= Corinna has a dutiful husband. *lat*= Corinna maritum pium habet.
+
+*en*= The young men save the cities. *lat*= Iuvenes urbes servant.
+
+*en*= husband *lat*= maritus
+
+*en*= Marcus is the kind relative. *lat*= Marcus familiaris benignus est.
+
+*en*= The aged father is not strict. *lat*= Pater senilis non est severus.
